@@ -1,4 +1,4 @@
-# 🎁 Proyecto: Amigo Secreto
+# Proyecto: Amigo Secreto
 
 Este proyecto es una aplicación web simple en JavaScript que permite a los usuarios agregar nombres a una lista y realizar un sorteo aleatorio para seleccionar un "amigo secreto" y es parte del challenge de oracle next education.
 
@@ -12,20 +12,6 @@ Este proyecto es una aplicación web simple en JavaScript que permite a los usua
 - ✅ Mostrar el resultado del sorteo en pantalla.
 - ✅ Limpieza automática del input tras cada entrada.
 - ✅ Verificación para evitar sorteos con menos de dos personas.
-
----
-
-## 📦 Estructura del proyecto
-
-amigo-secreto/
-├── index.html # Página principal con estructura HTML
-├── style.css # Estilos personalizados
-├── app.js # Lógica en JavaScript
-├── assets/
-│ └── amigo-secreto.png
-│ └── play_circle_outline.png
-└── README.md # Este archivo
-
 
 ---
 
